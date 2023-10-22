@@ -22,4 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emondrax007&show_icons=true&locale=en" alt="emondrax007" /></p>
 
+[![An image of @emondrax007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emondrax007)](https://holopin.io/@emondrax007)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emondrax007&" alt="emondrax007" /></p>

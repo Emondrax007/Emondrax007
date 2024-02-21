@@ -1,3 +1,4 @@
+[![An image of @emondrax007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emondrax007)](https://holopin.io/@emondrax007)
 # 💫 About Me:
 👨‍💻 About Me :<br><br>📌 I’m a 3rd year Btech Undergrad from SMIT Sikkim, India.<br><br>🧡 I’m currently learning NodeJS & Frontend Frameworks.<br><br>🌱 Exploring Kali linux , Penetration Testing Projects , CTF Challenges.<br><br>🎵 A Musician with a Passion for the Guitar 🎸 .<br><br>😄 Pronouns: He/Him.<br><br>🏚️ Hometown : Silchar, Assam, India.
 
